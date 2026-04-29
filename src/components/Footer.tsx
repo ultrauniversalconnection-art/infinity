@@ -23,6 +23,9 @@ const Footer = () => {
               <a href="tel:+18337086855" className="flex items-center gap-2 text-accent hover:text-accent/80">
                 <Phone className="h-3.5 w-3.5" /> (833) 708-6855
               </a>
+              <a href="tel:+18884986069" className="flex items-center gap-2 text-accent hover:text-accent/80">
+                <Phone className="h-3.5 w-3.5" /> (888) 498-6069
+              </a>
               <a href="mailto:support@infinitywificonnects.com" className="flex items-center gap-2 text-muted-foreground hover:text-foreground">
                 <Mail className="h-3.5 w-3.5" /> support@infinitywificonnects.com
               </a>
